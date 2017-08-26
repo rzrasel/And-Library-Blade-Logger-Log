@@ -7,7 +7,6 @@ And Library Blade Logger Log
 ### Installation
 Maven Repositories Installation
 
-
 ```maven repositories
 repositories {
     maven { url 'https://jitpack.io' }
